@@ -1,0 +1,54 @@
+body{
+    background: url(./Abstract\ HD\ Wallpaper\ \(48\).jpg);
+    font-family: 'Poppins', sans-serif;
+ }
+ .container{
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    margin-left: 33%;
+    margin-top: 5px;
+    color: #fff;
+    
+ }
+ input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(24, 17, 119);
+    outline: none;
+    font-size: 19px;
+
+
+ }
+ button{
+    width: 60px;
+    height: 41px;
+    background-color: rgb(19, 46, 121); 
+    color: white;
+    border: none;
+    cursor: pointer;
+
+    outline: none;
+    border-radius: 2px;
+    font-size: 19px;
+ }
+ .text ul{
+    position: relative;
+    color: white;
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+    
+ }
+ .text ul span{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+    color: #fff;
+ }
+input:hover{
+    border-radius: 12px 9px 12px 9px;
+}
+button:hover{
+    border-radius: 12px 9px 12px 9px;
+}
